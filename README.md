@@ -1,3 +1,3 @@
 # 15-445 Notes
 学习CMU15-445时的中文笔记 \
-作者个人知乎主页https://www.zhihu.com/people/StevenXcLiu
+知乎专栏网页版：https://www.zhihu.com/column/c_1470863887393988608
